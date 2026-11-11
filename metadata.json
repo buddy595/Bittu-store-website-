@@ -1,0 +1,8 @@
+{
+  "name": "NCC Uniforms & Cadet Kit Store",
+  "description": "E-commerce platform for National Cadet Corps (NCC) uniforms, drill accessories, and badges with Cash on Delivery and Direct Bank/UPI payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
